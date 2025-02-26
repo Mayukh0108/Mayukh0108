@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mayukh</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mayukh+....;Nice+to+meet+you!&center=true&size=35">
+  </a>
+</h1>
 <h3 align="center">A passionate DSA problem solver and full-stack developer from India</h3>
 
 ###
@@ -70,8 +74,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh0108&show_icons=true&locale=en" alt="mayukh0108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh0108&" alt="mayukh0108" /></p>
-
-<br clear="both">
+[![An image of @mayukh69gif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayukh69gif)](https://holopin.io/@mayukh69gif)
 
 <img src="https://raw.githubusercontent.com/mayukh0108/mayukh0108/output/snake.svg" alt="Snake animation" />
