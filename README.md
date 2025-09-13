@@ -15,6 +15,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh0108" alt="mayukh0108" /></a> </p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey!+I'm+Mayukh+Mondal+%F0%9F%91%8B;Backend+Dev+%7C+Open+Source+Contributor+%7C+Tech+Leader;Hackathon+Addict+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
+
+---
 
 
 - 🔭 I’m currently working on **Web projects**
@@ -67,6 +74,31 @@
 </div>
 
 ###
+
+### ⚡ About Me
+
+```yaml
+Full Name: Mayukh Mondal
+Current Role: Student @ Netaji Subhas Engineering College
+Open For: Frontend Internships | Freelance Projects
+Leadership:
+  - 👨‍💼 Development Lead, GNX (CSE Tech Club)
+  - 🌐 Webmaster, IEEE Computer Society NSEC
+
+Hobbies:
+  - 🌙 Watching sports
+
+```
+### 🏆 Achievements
+<table> <tr><td>🥈 Runners-Up</td><td>SparkHack 2025 – Jadavpur University</td></tr> <tr><td>🥈 Runners-Up</td><td>Internal SIH 2025 </td></tr> <tr><td>🥈 Runners-Up</td><td>NLP Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>🥉 2nd Runners-Up</td><td>AI Hackathon 2025 – IIT Kharagpur</td></tr> </table>
+
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayukhh18?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh0108&show_icons=true&locale=en&layout=compact" alt="mayukh0108" /></p>
 
