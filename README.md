@@ -1,27 +1,11 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mayukh+....;Nice+to+meet+you!&center=true&size=35">
-  </a>
-</h1>
-<h3 align="center">A passionate DSA problem solver and full-stack developer from India</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mayukh0108/count.svg?"  />
-</div>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh0108" alt="mayukh0108" /></a> </p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey!+I'm+Mayukh+Mondal+%F0%9F%91%8B;Backend+Dev+%7C+Open+Source+Contributor+%7C+Tech+Leader;Hackathon+Addict+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayu7kh0108&label=Profile%20views&color=0e75b6&style=flat" alt="saujanya77" /> </p>
+
+
 
 
 - 🔭 I’m currently working on **Web projects**
@@ -92,17 +76,59 @@ Hobbies:
 ### 🏆 Achievements
 <table> <tr><td>🥈 Runners-Up</td><td>SparkHack 2025 – Jadavpur University</td></tr> <tr><td>🥈 Runners-Up</td><td>Internal SIH 2025 </td></tr> <tr><td>🥈 Runners-Up</td><td>NLP Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>🥉 2nd Runners-Up</td><td>AI Hackathon 2025 – IIT Kharagpur</td></tr> </table>
 
-# 📊 LeetCode Stats
+## 💫 Github Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mayukhh18?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+
+
+<div align="center">
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=Mayukh0108&theme=dracula&column=5" /> 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayukh0108&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+---
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukh0108&layout=compact&theme=highcontrast" alt=img />
+
+![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayukh0108&theme=blue-green&show_icons=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayukh0108&theme=radical" alt="img" /></p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Mayukh0108">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayukh0108&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayukh0108&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayukh0108&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayukh0108&theme=highcontrast" height="180em" />
+</div>
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukh0108&show_icons=true&locale=en&layout=compact" alt="mayukh0108" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh0108&show_icons=true&locale=en" alt="mayukh0108" /></p>
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayukhh18?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 
 [![An image of @mayukh69gif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayukh69gif)](https://holopin.io/@mayukh69gif)
 
